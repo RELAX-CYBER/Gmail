@@ -130,6 +130,7 @@ if len(fuck8) !=19553:
       exit()
 #-----------------(USER-AGENT)------------------#
 ua = ["Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",]
+ua = ["FBAN/FB4A;FBAV/280.0.0.48.122;FBBV/233235247;FBDM/{density=3.0,width=1080,height=2132};FBLC/en_US;FBRV/235412020;FBCR/airtel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1893;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;"]
 #-----------------(GLOBAL-PROXY)------------------#
 ugen2=[]
 ugen=[]
@@ -344,7 +345,7 @@ logo=(f"""\x1b[1;92m
 ░ ▒▓ ░▒▓░░░ ▒░ ░░ ▒░▓  ░▒▒   ▓▒█░▒▒ ░ ░▓ ░
   ░▒ ░ ▒░ ░ ░  ░░ ░ ▒  ░ ▒   ▒▒ ░░░   ░▒ ░
   ░░   ░    ░     ░ ░    ░   ▒    ░    ░  
-   ░        ░  ░    ░  ░     ░  ░ ░    ░     \033[1;36m[\x1b[38;5;47mBABY\033[1;36m]
+   ░        ░  ░    ░  ░     ░  ░ ░    ░     \033[1;36m[\x1b[38;5;47mBABY2.0\033[1;36m]
 
 \x1b[38;5;27m{42*'—'}\x1b[38;5;46m
 \x1b[38;5;160m[\x1b[1;32m+\x1b[38;5;160m]\x1b[38;5;46m DE"""+"""VE"""+"""LOPER \x1b[0m:⁠\x1b[38;5;46m It'z M"""+"""A"""+"""S"""+"""UM\n\x1b[38;5;160m[\x1b[1;32m+\x1b[38;5;160m]\x1b[38;5;46m FA"""+"""CE"""+"""BOO"""+"""K"""+"""  \x1b[0m:⁠\x1b[38;5;46m M"""+"""A"""+"""S"""+"""UM"""+f"""
